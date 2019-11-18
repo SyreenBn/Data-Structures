@@ -1,0 +1,10 @@
+buy 20 share(s) at $15 each
+sell 20 share(s) at $20 each
+buy 10 share(s) at $15 each
+buy 20 share(s) at $20 each
+buy 30 share(s) at $25 each
+sell 40 share(s) at $30 each
+buy 20 share(s) at $15 each
+buy 20 share(s) at $15 each
+buy 20 share(s) at $15 each
+sell 80 share(s) at $15 each
